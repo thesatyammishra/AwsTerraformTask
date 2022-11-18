@@ -1,0 +1,1 @@
+#To update the .env file with database username , password, dbname , and hostname after creation of RDS instance.
